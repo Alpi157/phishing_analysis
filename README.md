@@ -92,8 +92,8 @@ This project is a **comprehensive forensic and behavioral analysis** of phishing
 
 | File Name                        | Description                                           |
 |----------------------------------|-------------------------------------------------------|
-| `CaptstoneProjectData_2025.csv` | Original raw dataset of phishing emails              |
-| `phishing_analyzed_dataset.csv` | Final dataset with all computed features             |
+| `CaptstoneProjectData_2025.csv` | Original raw dataset of phishing emails (deleted for security purposes)             |
+| `phishing_analyzed_dataset.csv` | Final dataset with all computed features (deleted for security purposes)            |
 | `signature_matrix.csv`          | Summary matrix of deceptive traits by percentage     |
 | `Final dataset analysis.ipynb`  | Jupyter Notebook with full step-by-step processing   |
 | `README.md`                     | Project documentation                                |
